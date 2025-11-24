@@ -15,5 +15,3 @@ getFormvalue();
 });
 
 
-
-getFormvalue();
